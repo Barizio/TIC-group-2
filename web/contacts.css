@@ -2,6 +2,8 @@
 body{
     background-color: #489aff;
     font-family: 'Water Brush', sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
 
 /* Styling for the text content */
