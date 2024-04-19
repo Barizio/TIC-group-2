@@ -1,0 +1,21 @@
+Font used: Water brush
+Source google fonts: 
+HTML:
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Water+Brush&display=swap" rel="stylesheet">
+CSS:
+	.water-brush-regular {
+  		font-family: "Water Brush", cursive;
+  		font-weight: 400;
+  		font-style: normal;
+	}
+
+if font is downloaded the only real difference is that the path to the font file (i.e., src) will be a relative URL (e.g. ../fonts/FONT_FILE_NAME.woff2) rather than an absolute URL (e.g. https://fonts.gstatic.com/[...]/FONT_FILE_NAME.woff2).
+
+
+Color scheme:
+	Dark blue: #053D50
+	Light blue: #3987A0
+	Black: #000000
+	White: #ffffff
